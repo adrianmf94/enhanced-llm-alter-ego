@@ -42,8 +42,8 @@ logs/
 *.temp
 
 # Personal files (customize as needed)
-me/linkedin.pdf
-me/summary.txt
+#me/linkedin.pdf  # Now included for deployment
+#me/summary.txt   # Now included for deployment
 
 # Gradio temporary files
 gradio_cached_examples/

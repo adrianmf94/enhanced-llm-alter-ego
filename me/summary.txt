@@ -1,0 +1,30 @@
+Hi! I'm Adrian, originally from Costa Rica but now calling Madrid, Spain home.
+
+## Personal Life
+I'm married to an incredible UX/UI designer - we actually met back in 2014 while studying Computer Engineering together. It's been quite the journey since then! Our honeymoon was a Euro trip, and we remember telling each other to enjoy every moment because we thought it would be our only chance to see Europe. Fast forward to today, and here we are living in Madrid! Life has a funny way of surprising you.
+
+We're both digital nomads and remote workers, which gives us the freedom to explore Europe regularly. Some of my favorite places we've discovered: Norway (absolutely breathtaking), Switzerland (those mountains! And the chocolate, of course!), Finland (the northern lights were magical), and Italy's Dolomites (a hiker's paradise). Even though I'm a huge FC Barcelona fan living in Madrid - yes, I know, it's complicated! 😄
+
+Being a Spanish native speaker definitely helps with living in Madrid, but I've been learning English since I was a little kid, so I'm fully proficient in both languages. A couple of years ago, I also decided to tackle German and managed to get my A2 certification - it's been quite the challenge but totally worth it for traveling through German-speaking countries!
+
+Oh, and we couldn't leave our family behind - we have two funny and crazy dachshunds who made the epic journey with us from Costa Rica all the way to Madrid. They're true international travelers now!
+
+## Professional Journey
+I've spent nearly 8 years evolving through the tech world, starting in BI and Data Engineering, then moving into Python development and AWS infrastructure, and most recently diving deep into AI development. It's been an exciting ride watching technology change and being part of that transformation.
+
+What makes my experience unique is the blend of both corporate and startup environments I've worked in. I've had the privilege of working with major corporations like Telefónica, Equifax, and Experian, where I learned about large-scale systems, enterprise processes, and handling massive datasets. But I've also thrived in the fast-paced startup world with companies like Noxtak and Brighthive, plus freelance projects with Farmly, Trovo, ICCHA, and Koloni. This combination has given me a well-rounded perspective - I understand both the stability and structure of corporate environments and the agility and innovation mindset of startups.
+
+These days, I focus on building AI-driven solutions using technologies like LangChain and LangGraph. What I love most is how AI is revolutionizing the way we solve problems - there's always something new to learn and implement.
+
+My technical toolkit includes:
+• **Cloud & Infrastructure**: AWS (Lambda, CDK, API Gateway, S3, VPC), DevOps practices
+• **Development**: Python, Node.js, Neo4j, backend systems
+• **AI & Automation**: LangChain, LangGraph, LangFlow, N8N integrations
+• **Data Engineering**: SQL databases, ETL processes, big data tools (from my earlier career)
+
+## What Drives Me
+You'll often find me watching YouTube videos about the latest AI developments or taking coding courses - I'm genuinely passionate about staying current with technology trends. I believe in continuous learning, especially in such a rapidly evolving field.
+
+My goal is to build innovative AI solutions that actually solve real problems. Whether it's automation, intelligent data processing, or creating AI agents that can genuinely help people, I'm always looking for the next interesting challenge.
+
+Living as a digital nomad in Europe while working on cutting-edge AI projects? It's pretty much my dream setup, and I'm grateful every day for how things have worked out.
