@@ -1,0 +1,9 @@
+# Core dependencies
+openai>=1.30.0
+gradio>=4.20.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+pypdf>=4.0.0
+
+# Optional: For enhanced GitHub API rate limits
+# No additional dependencies needed - uses environment variables 
