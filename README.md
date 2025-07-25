@@ -1,3 +1,9 @@
+---
+title: llm_alter_ego
+app_file: app.py
+sdk: gradio
+sdk_version: 5.38.2
+---
 # Enhanced LLM Alter Ego
 
 An AI-powered personal assistant chatbot with real-time GitHub integration and professional data sources.
@@ -305,4 +311,4 @@ This project was inspired by and builds upon the foundational concepts from **Ed
 
 The evolution from course concept to production-ready application demonstrates practical software development skills and the ability to extend foundational ideas into robust, deployable solutions.
 
-For questions or suggestions, feel free to reach out! 
+For questions or suggestions, feel free to reach out! # Force update Fri Jul 25 14:15:50 CEST 2025
